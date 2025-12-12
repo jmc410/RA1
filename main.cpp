@@ -59,5 +59,3 @@ void print(int const arr[], int size) {
   cout << endl;
 }
 
-
-// End of program.
